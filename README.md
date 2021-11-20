@@ -2,7 +2,7 @@
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DilshanUdawaththa&label=Profile%20views&color=0e75b6&style=plastic" alt="DilshanUdawaththa" /></br>
 
-- 🔭 I’m currently an **Computer Science** undergraduate at **Uva Wellassa University of Sri Lanka**
+- 🔭 I’m currently a **Computer Science** undergraduate at **Uva Wellassa University of Sri Lanka**
 - 🌱 I’m currently learning **Web** and **Mobile App development**
 - 😎 You can check my repositories at my account
 - 💬 Ask me about ... just contact me😉
