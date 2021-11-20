@@ -1,4 +1,5 @@
 ### Hi there, I'm Dilshan Udawaththa 😍👋
+<hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DilshanUdawaththa&label=Profile%20views&color=0e75b6&style=plastic" alt="DilshanUdawaththa" /></br>
 
 - 🔭 I’m currently an **Computer Science** undergraduate at **Uva Wellassa University of Sri Lanka**
