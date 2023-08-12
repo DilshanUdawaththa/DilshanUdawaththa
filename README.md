@@ -2,8 +2,8 @@
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DilshanUdawaththa&label=Profile%20views&color=0e75b6&style=plastic" alt="DilshanUdawaththa" /></br>
 
-- 🔭 I’m currently a **Computer Science** undergraduate at **Uva Wellassa University of Sri Lanka**
-- 🌱 I’m currently learning **Web** and **Mobile App development**
+- 🔭 I’m currently a **Software Engineer** at **The Permalinks Limited of Auckland, New Zealand**
+- 🎓 Also, I’m a **Computer Science** graduate at **Uva Wellassa University of Sri Lanka**
 - 😎 You can check my repositories at my account
 - 💬 Ask me about ... just contact me😉
 - 📫 You can contact me at [Twitter](https://twitter.com/DUdawaththa), [LinkedIn](https://www.linkedin.com/in/dilshan-udawaththa-128184160/), [Instagram](https://www.instagram.com/dilshan_udawaththa/?hl=en) or [Facebook](https://www.facebook.com/dilshaan.udawaththa/)
