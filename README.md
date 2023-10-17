@@ -2,7 +2,7 @@
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DilshanUdawaththa&label=Profile%20views&color=0e75b6&style=plastic" alt="DilshanUdawaththa" /></br>
 
-- 🔭 I’m currently a **Software Engineer** at **The Permalinks Limited, Auckland, New Zealand**
+- 🔭 I’m currently a **Associate Software Engineer** at **The Permalinks Limited, Auckland, New Zealand**
 - 🎓 Also, I’m a **Computer Science** graduate at **Uva Wellassa University of Sri Lanka**
 - 😎 You can check my repositories at my account
 - 💬 Ask me about ... just contact me😉
