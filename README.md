@@ -6,7 +6,7 @@
 - 🎓 Also, I’m a **Computer Science** graduate at **Uva Wellassa University of Sri Lanka**
 - 😎 You can check my repositories at my account
 - 💬 Ask me about ... just contact me😉
-- 📫 You can contact me at [Twitter](https://twitter.com/DUdawaththa), [LinkedIn](https://www.linkedin.com/in/dilshan-udawaththa-128184160/), [Instagram](https://www.instagram.com/dilshan_udawaththa/?hl=en) or [Facebook](https://www.facebook.com/dilshaan.udawaththa/)
+- 📫 You can contact me at [Twitter](https://twitter.com/DUdawaththa), [LinkedIn](https://www.linkedin.com/in/dilshan-udawaththa-128184160/), [Instagram](https://www.instagram.com/dilshaan.udawaththa/) or [Facebook](https://www.facebook.com/dilshaan.udawaththa/)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DilshanUdawaththa&show_icons=true&theme=algolia&line_height=30" />
