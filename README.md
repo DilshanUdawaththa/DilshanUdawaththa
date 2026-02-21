@@ -8,11 +8,6 @@
 - 💬 Ask me about ... just contact me😉
 - 📫 You can contact me at [Twitter](https://twitter.com/DUdawaththa), [LinkedIn](https://www.linkedin.com/in/dilshan-udawaththa-128184160/), [Instagram](https://www.instagram.com/dilshaan.udawaththa/) or [Facebook](https://www.facebook.com/dilshaan.udawaththa/)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DilshanUdawaththa&show_icons=true&theme=algolia&line_height=30" />
-  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanUdawaththa&count_private=true&theme=algolia">
-</p>
-
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
